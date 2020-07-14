@@ -1,6 +1,7 @@
 arr = [1,3,5,4,2]
 print(arr)
 
+
 def sort(arr):
 	count = len(arr)
 
